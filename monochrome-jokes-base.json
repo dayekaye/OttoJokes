@@ -1,1 +1,179 @@
-{"jokes": [    {                        "setup": "How many _____ does it take to screw in a lightbulb?",      "punchlines": [        {         "answer": "rats",          "response": "Ratta-twoy!",          "surpriseVal": "10"        },        {          "answer": "cows",          "response": "A Mooo-llion!",          "surpriseVal": "10"        },        {          "answer": "nats",          "response": "Nat a one!",          "surpriseVal": "10"        },        {          "answer": "frogs",          "response": "I Toadally don’t know...",          "surpriseVal": "10"        }        ]    },    {      "setup": "Crap, I spilled _____!",      "punchlines": [        {          "answer": "the beans",          "response": "I've bean thinking about it all day!",          "surpriseVal": "10"        },        {          "answer": "the tea",          "response": "Now my tranquilli-Tea is ruined!",          "surpriseVal": "10"        },        {          "answer": "the milk",          "response": "Don't worry, I won't cry about it.",          "surpriseVal": "10"        },        {          "answer": "barely any water",          "response": "Flies have such big eyes, I bet you could tell.",          "surpriseVal": "10"        }        ]    },    {      "setup": "What did I give to the _____?",      "punchlines": [        {          "answer": "fly",          "response": "A weekly subscription, but he didn't live long enough to see it.",          "surpriseVal": "10"        },        {          "answer": "toliet",          "response": "A pretty crappy gift.",          "surpriseVal": "10"        },        {          "answer": "lamp",          "response": "A diet to lighten him up.",          "surpriseVal": "10"        },        {          "answer": "my lovely date",          "response": "Some berries to keep it accompanied in the fruit bowl.",          "surpriseVal": "10"        }        ]    },    {      "setup": "Next on the News: _____.",      "punchlines": [        {          "answer": "Buzzing sales!",          "response": " News polls show that flyswatter sales have been buzzing!",          "surpriseVal": "10"        },        {          "answer": "Bass Event",          "response": "The man came for the bass fishing and left because of the loud music.",          "surpriseVal": "10"        },        {          "answer": "A perfectionist in a bar",          "response": "The bar wasn't set high enough.",          "surpriseVal": "10"        },        {          "answer": "Law-breaking semicolon",          "response": "Didn't you hear? He got two sentences.",          "surpriseVal": "10"        }        ]    },    {      "setup": "What's the deal with _____?",      "punchlines": [        {          "answer": "a fly's proboscis",          "response": "Do you like Probe-alone?",          "surpriseVal": "10"        },        {          "answer": "ignorance",          "response": "I don't know and never bothered to look it up.",          "surpriseVal": "10"        },        {          "answer": "velcro",          "response": "It's a Rip-off!",          "surpriseVal": "10"        },        {          "answer": "vacuum Cleaners",          "response": "All mine does is collect dust.",          "surpriseVal": "10"        }        ]    },    {      "setup": "Want to play _____?",      "punchlines": [        {          "answer": "squash",          "response": "Good! You stay here, and I'll get my flyswatter.",          "surpriseVal": "10"        },        {          "answer": "football",          "response": "Playing today was a SNAP decision!",          "surpriseVal": "10"        },        {          "answer": "a board game",          "response": "Why a board game? I don't know, just been feeling bored lately.",          "surpriseVal": "10"        },        {          "answer": "golf",          "response": "I'll never FORE-get the last time I played!",          "surpriseVal": "10"        }        ]    }    ]}
+﻿{
+   "jokes":[
+    {
+         "setup":"ENTER JOKE SETUP HERE WITH _______ WHERE THE JOKE SUBJECT SHOULD BE ENTERED",
+         "punchlines":[
+            {
+               "answer":"joke-subject-1",
+               "response":"punchline-1",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"joke-subject-2",
+               "response":"punchline-2",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"joke-subject-3",
+               "response":"punchline-3",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"joke-subject-4",
+               "response":"punchline-4",
+               "surpriseVal":"10"
+            }
+         ]
+      },
+      {
+         "setup":"How many _____ does it take to screw in a lightbulb?",
+         "punchlines":[
+            {
+               "answer":"rats",
+               "response":"Ratta-twoy!",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"cows",
+               "response":"A Mooo-llion!",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"nats",
+               "response":"Nat a one!",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"frogs",
+               "response":"I Toadally don’t know...",
+               "surpriseVal":"10"
+            }
+         ]
+      },
+      {
+         "setup":"Crap, I spilled _____!",
+         "punchlines":[
+            {
+               "answer":"the beans",
+               "response":"I've bean thinking about it all day!",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"the tea",
+               "response":"Now my tranquilli-Tea is ruined!",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"the milk",
+               "response":"Don't worry, I won't cry about it.",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"barely any water",
+               "response":"Flies have such big eyes, I bet you could tell.",
+               "surpriseVal":"10"
+            }
+         ]
+      },
+      {
+         "setup":"What did I give to the _____?",
+         "punchlines":[
+            {
+               "answer":"fly",
+               "response":"A weekly subscription, but he didn't live long enough to see it.",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"toliet",
+               "response":"A pretty crappy gift.",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"lamp",
+               "response":"A diet to lighten him up.",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"my lovely date",
+               "response":"Some berries to keep it accompanied in the fruit bowl.",
+               "surpriseVal":"10"
+            }
+         ]
+      },
+      {
+         "setup":"Next on the News: _____.",
+         "punchlines":[
+            {
+               "answer":"Buzzing sales!",
+               "response":" News polls show that flyswatter sales have been buzzing!",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"Bass Event",
+               "response":"The man came for the bass fishing and left because of the loud music.",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"A perfectionist in a bar",
+               "response":"The bar wasn't set high enough.",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"Law-breaking semicolon",
+               "response":"Didn't you hear? He got two sentences.",
+               "surpriseVal":"10"
+            }
+         ]
+      },
+      {
+         "setup":"What's the deal with _____?",
+         "punchlines":[
+            {
+               "answer":"a fly's proboscis",
+               "response":"Do you like Probe-alone?",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"ignorance",
+               "response":"I don't know and never bothered to look it up.",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"velcro",
+               "response":"It's a Rip-off!",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"vacuum Cleaners",
+               "response":"All mine does is collect dust.",
+               "surpriseVal":"10"
+            }
+         ]
+      },
+      {
+         "setup":"Want to play _____?",
+         "punchlines":[
+            {
+               "answer":"squash",
+               "response":"Good! You stay here, and I'll get my flyswatter.",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"football",
+               "response":"Playing today was a SNAP decision!",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"a board game",
+               "response":"Why a board game? I don't know, just been feeling bored lately.",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"golf",
+               "response":"I'll never FORE-get the last time I played!",
+               "surpriseVal":"10"
+            }
+         ]
+      }
+   ]
+}
