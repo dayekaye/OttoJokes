@@ -1,4 +1,4 @@
-
+HOW TO ADD YOUR OWN JOKES TO MONOCHROME RPG
     Fork this repository
     Open monochrome-jokes-base.json
     Duplicate the template at the top of the file
