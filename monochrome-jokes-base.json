@@ -26,6 +26,31 @@
          ]
       },
       {
+           "setup":"What did the owl say to the _________",
+           "punchlines":[
+              {
+                 "answer":"person",
+                 "response":"I'm an Owl",
+                 "surpriseVal":"10"
+              },
+              {
+                 "answer":"lion",
+                 "response":"I'm the King now",
+                 "surpriseVal":"10"
+              },
+              {
+                 "answer":"potion",
+                 "response":"thanks, i love you",
+                 "surpriseVal":"10"
+              },
+              {
+                 "answer":"mouse",
+                 "response":"thanks, i'm hungry for you",
+                 "surpriseVal":"10"
+              }
+           ]
+        },
+      {
          "setup":"How many _____ does it take to screw in a lightbulb?",
          "punchlines":[
             {
