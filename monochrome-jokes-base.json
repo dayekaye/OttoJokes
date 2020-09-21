@@ -51,6 +51,31 @@
          ]
       },
       {
+         "setup":"A  _______ walks into a bar",
+         "punchlines":[
+            {
+               "answer":"blind person",
+               "response":"Ouch!",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"cowboy",
+               "response":"He ordered a High Noon",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"magnet",
+               "response":"it sticks to the metal bar",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"neutron",
+               "response":"it ordered a drink, free of charge",
+               "surpriseVal":"10"
+            }
+         ]
+      },
+      {
            "setup":"What did the owl say to the _________",
            "punchlines":[
               {
