@@ -25,6 +25,31 @@
             }
          ]
       },
+{
+         "setup":"Honey, did you grab the ______",
+         "punchlines":[
+            {
+               "answer":"kids",
+               "response":"I thought you were getting them",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"almond milk",
+               "response":"I thought you wanted coconut milk",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"sword",
+               "response":"Let's get hunting!",
+               "surpriseVal":"10"
+            },
+            {
+               "answer":"skull",
+               "response":"Watch Out! It's trapped!",
+               "surpriseVal":"10"
+            }
+         ]
+      },
       {
            "setup":"What did the owl say to the _________",
            "punchlines":[
